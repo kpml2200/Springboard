@@ -5,7 +5,7 @@ Data Science and Machine Learning Projects
 ## Project 1: Customer Loyalty and Recommender System
 Unsupervised clustering of customers based on their transaction history. Statistical profiling of individual customers and the segments were derived by K-Modes clustering for better cross-sell and upsell recommendation.
 Presentation Materials:
-1.	Report
+1.	[Report] (https://github.com/kpml2200/Springboard/blob/master/Project%201%20-%20Customer%20Loyalty%20and%20Recommender%20System/Project%201%20-%20Report.pdf)
 2.	Slide Deck
 
 ### Jupyter Notebook Code:
